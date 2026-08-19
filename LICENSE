@@ -1,0 +1,36 @@
+CUSTOM COMMERCIAL-ATTRIBUTION LICENSE (CC-AT-2026)
+
+Copyright (c) 2026 by the original author.
+
+You are granted a non-exclusive, worldwide, royalty-free license to use, copy, modify,
+and distribute this code in source or object form, provided the following terms are met:
+
+1) Attribution Required
+Any copy, fork, distribution, deployment, or public use of this repository, in whole or
+in part, must include clear attribution in user-facing documentation, product UI, or project
+readme:
+
+"Built by @itsoumya-d"
+
+2) Commercial Use
+If you use this project, a component of this project, or a derivative in a commercial
+product, service, paid app, or revenue-generating activity, you must either:
+
+A) Reach a paid licensing agreement with the author, and use this project accordingly; or
+B) Add and keep the same attribution as stated in Section 1 in prominent user-facing
+   documentation or credits.
+
+3) No Warranty
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE
+AND NONINFRINGEMENT.
+
+4) Liability
+IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+WITH THE SOFTWARE.
+
+5) Governing Rule for Modified Versions
+Any derivative work that includes this license file must preserve this full license in the
+project root and must not remove attribution rights described above.
+
